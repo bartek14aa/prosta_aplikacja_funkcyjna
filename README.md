@@ -1,7 +1,7 @@
 # prosta_aplikacja_funkcyjna
 
 Jest to program wykonany przeze mnie jako zadanie zaliczeniowe na przedmiot Podstawy programowania 
-na pierwszym roku studiów kierunku geoinformacja. Program napisany został w języku Python, za pomocą 
+na drugim roku studiów kierunku geoinformacja. Program napisany został w języku Python, za pomocą 
 biblioteki Tkinter. Wykonuje on proste obliczenia BMI oraz wynagrodzenia netto.
 
 ![image](https://user-images.githubusercontent.com/62958388/173605759-a0b1a182-8cfd-44ce-92fb-abbffcfafd8a.png)
