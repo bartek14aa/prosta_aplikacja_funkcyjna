@@ -1,6 +1,6 @@
 # prosta_aplikacja_funkcyjna
 
-Jest to program wykonany przeze mnie jako zadanie zaliczeniowe na przedmiot Wstęp do programowania 
+Jest to program wykonany przeze mnie jako zadanie zaliczeniowe na przedmiot Podstawy programowania 
 na pierwszym roku studiów kierunku geoinformacja. Program napisany został w języku Python, za pomocą 
 biblioteki Tkinter. Wykonuje on proste obliczenia BMI oraz wynagrodzenia netto.
 
